@@ -1,4 +1,4 @@
-# Multivariate Control Chart with Dimension Reduction using FAMD and Autoencoder
+# Multivariate Control Chart Hotelling T-Square with Dimension Reduction using FAMD and Autoencoder
 
 This repository contains the implementation of a multivariate control chart with dimension reduction techniques, namely Factor Analysis of Mixed Data (FAMD) and Autoencoder. The control chart is designed for detecting network intrusions using network data traffic.
 
